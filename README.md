@@ -57,7 +57,7 @@ The best way to describe the Document Object Model, is to see and interact with 
 
 ![opening-console](https://s3.amazonaws.com/learn-verified/opening-console.gif)
 	
-> From the learn webpage, look at the menu at the chrome menu at the top of the page, and click on view, then at the very bottom of the view dropdown it says developer. Upon clicking on developer at the bottom of that you will see Developer Tools. Click on Developer Tools. This will pop up the Google Developer Console. 
+> From the learn webpage, look at the menu at the chrome menu at the top of the page, and click on view, then at the very bottom of the view dropdown it says developer. Upon clicking on developer at the bottom of that you will see Developer Tools. Click on Developer Tools. This will pop up the Google Developer Console. You can also open google chrome developer tools by pressing shortcut key on Mac - ⌘ + Shift + C and on Windows / Linux - Ctrl + Shift + C OR F12.
 
 #### 2. Manipulate the DOM
 
